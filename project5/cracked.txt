@@ -41,7 +41,7 @@
  fostrie:
  twitterni:
  runestnam:
- shortoeve:
+ shortoeve:pleurolith&
  brombert:
  keymialia:
  apenguinlead:
