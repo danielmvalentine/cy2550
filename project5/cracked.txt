@@ -30,7 +30,7 @@
  onev2:recharges
  prodott:Precchosen
  streplon:Tierer
- aimetrans:
+ aimetrans:Coturnix
  bottechvaci:depolish6
  epicgnome:plasmogeny3
  tasticsupreme:competitor6
